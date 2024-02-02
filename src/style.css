@@ -90,3 +90,22 @@ body{
    color: #fec02f;
   
 }
+section{
+    padding-bottom: 5%;
+}
+
+.input-grp input,textarea{
+    background: #101624;
+    margin: 3% 0;
+    padding: 3% 1%;
+    border:  1px solid #36383b;
+}
+
+
+::placeholder{
+    padding: 2% 5%;
+}
+footer{
+    background: #0A101E;
+   padding: 2% 1%;
+}
